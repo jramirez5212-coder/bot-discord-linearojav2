@@ -43,7 +43,7 @@ const guideTickets = {
     name: 'staff',
     title: 'Postulación Staff',
     categoryName: 'Postulación Staff',
-    categoryId: '1496662515592200373',
+    categoryId: '1495582414984970261',
     roleId: '1496645390483722341'
   },
   guide_org: {
