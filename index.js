@@ -740,7 +740,7 @@ client.on('guildMemberAdd', async member => {
     if (infoChannel?.isTextBased()) {
       await infoChannel.send({
         content: [
-          `<:LINEAROJALOGO:1496974366364405781> **Bienvenido ${member}.**`,
+          `<:LineaRojaRp:1497376562386047087> **Bienvenido ${member}.**`,
           `*Recuerda https://discordapp.com/channels/1188377448346288158/1188388349799579658 para poder disfrutar del servidor, al tiempo te recomiendo que te informes un poco sobre nuestro servidor aca https://discordapp.com/channels/1188377448346288158/1496676450269397042 .*`,
           '',
           '-> __Nota:__ Recuerda que para entrar al servidor debes pertenecer en una **FACCION**, y aca puedes postular para alguna de ellas:',
